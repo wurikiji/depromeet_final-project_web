@@ -1,0 +1,46 @@
+html,body,table,tr,td {
+  margin: 0;
+  padding: 0;
+}
+
+img.bg{
+    width:1280px;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    overflow: auto;
+    position: fixed;
+    right: 0;
+}
+
+
+ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+li {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    border : 0;
+    float: left;
+}
+
+.bannerli{
+  font-size: 14px;
+  font-weight: bold;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1.4px;
+  color: #575757;
+  margin-top:21px;
+  margin-left:38px;
+}
+
+.bannerimage{
+    font-size:21px;
+    color:#575757;
+    margin-right:20px;
+}
